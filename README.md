@@ -1,5 +1,7 @@
 # MIDI野郎
-MIDI野郎キットは、ワンチップGM音源IC、SAM2695を使った音源モジュールです。GM音源の127種類の音が出るほか、エフェクトやEQなども使えます。詳細は、SAM2695のデータシート(https://www.dream.fr/pdf/Serie2000/SAM_Datasheets/SAM2695.pdf)を参考にしてください。
+MIDI野郎キットは、ワンチップGM音源IC、SAM2695を使った音源モジュールです。GM音源の127種類の音が出るほか、エフェクトやEQなども使えます。詳細は、SAM2695のデータシート
+https://www.dream.fr/pdf/Serie2000/SAM_Datasheets/SAM2695.pdf
+を参考にしてください。
 
 # キットの内容
 - 部品実装済み基板
