@@ -1,0 +1,36 @@
+### Module positions - created on 2020年02月06日 17時51分14秒 ###
+### Printed by Pcbnew version kicad 5.1.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                    Package                               PosX       PosY       Rot  Side
+C1        1u                     C_0603_HandSoldering               86.8000   -46.2000  180.0000  top
+C2        10u                    C_0603_HandSoldering               67.7500   -45.5000  270.0000  top
+C3        10p                    C_0603_HandSoldering               85.4500   -52.9500  180.0000  top
+C5        0.01u                  C_0603_HandSoldering               70.2000   -49.2000  180.0000  top
+C6        10p                    C_0603_HandSoldering               85.5500   -58.9500  180.0000  top
+C7        10u                    C_0603_HandSoldering               74.1500   -45.3000  270.0000  top
+C8        4.7u                   C_0603_HandSoldering               92.6000   -50.4000    0.0000  top
+C9        0.1u                   C_0603_HandSoldering               95.4000   -62.8000  270.0000  top
+C10       1u                     C_0603_HandSoldering               90.2000   -68.4000  180.0000  top
+C11       0.1u                   C_0603_HandSoldering               90.2000   -66.4000    0.0000  top
+C12       0.1u                   C_0603_HandSoldering               98.4000   -50.2500  270.0000  top
+C13       0.1u                   C_0603_HandSoldering               86.2000   -68.4000    0.0000  top
+C14       10u                    C_0603_HandSoldering               74.5500   -65.2000    0.0000  top
+C15       10u                    C_0603_HandSoldering               74.3000   -73.2000    0.0000  top
+D1        GS1010FL               D_SOD-123F                         91.1500   -46.2500  180.0000  top
+D2        GS1010FL               D_SOD-123F                         78.5000   -54.5000  270.0000  top
+J1        Jack-DC                MRUSB-2B-D14NI-S306                65.0000   -45.9000   90.0000  top
+J2        SJ-3523-SMT-TR         CUI_SJ-3523-SMT-TR                 60.7500   -57.7500    0.0000  top
+J3        SJ-3523-SMT-TR         CUI_SJ-3523-SMT-TR                 60.8000   -69.0000    0.0000  top
+L1        BLM18P                 L_0603_HandSoldering               90.4000   -63.4000    0.0000  top
+LED1      LED                    LED_0603_HandSoldering             75.0000   -49.2000    0.0000  top
+R1        10k                    R_0603_HandSoldering               91.4000   -48.7500  180.0000  top
+R2        220                    R_0603_HandSoldering               74.5000   -53.0000  180.0000  top
+R3        470?                   R_0603_HandSoldering               81.6000   -54.4000   90.0000  top
+R4        1k                     R_0603_HandSoldering               76.1500   -45.3000  270.0000  top
+R5        0                      R_0603_HandSoldering               68.6000   -41.8000    0.0000  top
+R6        47k                    R_0603_HandSoldering               74.5500   -67.7000  180.0000  top
+R7        47k                    R_0603_HandSoldering               74.6000   -70.7000  180.0000  top
+U2        SAM2695                SAM2695_QFN-48-6x6mm_Pitch0.4mm    93.0000   -56.0000   90.0000  top
+Y1        ABM8G-12.000MHZ-4Y-T3  OSCSC320X250X100N                  85.5500   -55.9500  180.0000  top
+## End
