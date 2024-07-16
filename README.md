@@ -28,9 +28,9 @@ You can also use effects and EQs. Please refer to the SAM2695's datasheet for de
 
 ## How to assemble
 
-Solder the included TRS Jacks to the places shown below (TBD).
+Solder the included TRS Jacks to the places shown below.
 
-(no figures so far)
+![how to solder](images/how_to_solder_rev2_1.png)  
 
 ## Usage
 
