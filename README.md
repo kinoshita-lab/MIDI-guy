@@ -1,4 +1,7 @@
+
 # MIDI Guy by Kinoshita Laboratory
+
+[japanese version](./README.ja.md)
 
 MIDI Guy is a sound module with SAM2695, a single chip General MIDI(GM) synthesizer.
 It can generate GM's 127 sound programs such as "Acoustic Grand Piano", "Trumpet", etc.
