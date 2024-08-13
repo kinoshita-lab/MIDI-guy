@@ -20,6 +20,7 @@ You can also use effects and EQs. Please refer to the SAM2695's datasheet for de
 
 - Pre-assembled circuit board
 - 2 pcs. of 3.5mm TRS Jack
+- 1 pc. of DIN <-> TRS(Type A) Conversion Cable
 
 ## What you will need
 
