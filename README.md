@@ -25,7 +25,6 @@ You can also use effects and EQs. Please refer to the SAM2695's datasheet for de
 
 - USB C Cable
 - Power source for USB, such as power adapter or PC
-- DIN->TRS conversion cable(for MIDI Input)
 - MIDI cable
 - MIDI Output Device e.g. MIDI Keyboard, PC with MIDI Interface
 
