@@ -44,3 +44,7 @@ Solder the included TRS Jacks to the places shown below.
 ## Schematics, design data, questions
 
 <https://github.com/kinoshita-lab/MIDI-guy>
+
+## Case Design
+STL file made by @maks. Thank you!!
+https://www.printables.com/model/1151667-case-for-a-midi-guy-pcb
