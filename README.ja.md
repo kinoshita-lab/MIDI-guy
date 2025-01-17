@@ -40,3 +40,7 @@ TRSジャックをはんだづけします。
 
 こちらにあります。
 <https://github.com/kinoshita-lab/MIDI-guy>
+
+## ケース
+STL file を @maks さんが公開しています。 ありがとうございます!!
+https://www.printables.com/model/1151667-case-for-a-midi-guy-pcb
