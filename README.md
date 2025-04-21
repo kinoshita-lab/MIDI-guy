@@ -9,6 +9,9 @@ It can generate GM's 127 sound programs such as "Acoustic Grand Piano", "Trumpet
 You can also use effects and EQs. Please refer to the SAM2695's datasheet for details.
 <https://www.dream.fr/pdf/Serie2000/SAM_Datasheets/SAM2695.pdf>
 
+# Selling PCBA at tindie.com!
+Please visit: <https://www.tindie.com/products/kinoshitalab/midi-guy-rev-21-kit/>
+
 ## What's new for Revision 2.1
 
 - USB Power input is replaced from micro USB to USB Type-C
